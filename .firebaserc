@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "loginapp-ca453": {
+      "hosting": {
+        "AngularApp": [
+          "loginapp-ca453"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "loginapp-ca453"
+  }
+}
